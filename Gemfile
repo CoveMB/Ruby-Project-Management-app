@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Other gems
 gem 'devise'
 gem 'milia'
+gem 'bootstrap-datepicker-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
